@@ -19,7 +19,8 @@ conda install openai
 conda install notebook
 conda install python-dotenv
 pip install redlines
-
+conda install panel
+conda install -c bokeh jupyter_bokeh
 
 Need to create config.env file with:
 OPENAI_API_KEY = "sk-xxxxxx"
