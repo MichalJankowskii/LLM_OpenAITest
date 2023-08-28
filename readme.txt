@@ -18,6 +18,7 @@ conda install python
 conda install openai
 conda install notebook
 conda install python-dotenv
+pip install redlines
 
 
 Need to create config.env file with:
